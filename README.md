@@ -1,7 +1,5 @@
 # News App
 
-![](https://github.com/simranlotey/react-news-app/blob/master/src/components/Images/demo.png)
-
 This News App is powered by the GNews public API and provides users with the latest news articles from around the world. The app offers a user-friendly interface where news articles are organized by categories, allowing users to easily browse and read articles of their interest. 
 
 ## Features
@@ -33,7 +31,7 @@ To run the React News App on your local machine, follow these steps:
 1. Clone the repository to your local machine using the following command:
 
 ```
-git clone https://github.com/simranlotey/react-news-app.git
+git clone 
 ```
 
 2. Navigate to the project directory:
